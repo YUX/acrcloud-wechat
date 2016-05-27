@@ -10,4 +10,4 @@
 - Flask
 
 ## Related Project
-https://github.com/YUX-IO/163music-APlayer-you-get-docker[https://github.com/YUX-IO/163music-APlayer-you-get-docker]
+https://github.com/YUX-IO/163music-APlayer-you-get-docker
