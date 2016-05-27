@@ -8,3 +8,6 @@
 - 微信公众号 需要素材接口 或使用测试号
 - Acrcloud账号
 - Flask
+
+## Related Project
+https://github.com/YUX-IO/163music-APlayer-you-get-docker[https://github.com/YUX-IO/163music-APlayer-you-get-docker]
