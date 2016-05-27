@@ -6,7 +6,7 @@
 
 ## Requirement
 - 微信公众号 需要素材接口 或使用测试号
-- Acrcloud账号
+- [Acrcloud](https://www.acrcloud.com/)账号
 - Flask
 
 ## Related Project
